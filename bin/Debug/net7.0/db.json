@@ -1,0 +1,31 @@
+{
+  "userModel": [
+    {
+      "id": 0,
+      "f_Name": "F-name",
+      "l_Name": "L_name",
+      "age": 33,
+      "addr": "11/2/3/4/4/",
+      "zipcode": "9000",
+      "email": "mastergg"
+    },
+    {
+      "id": 1,
+      "f_Name": null,
+      "l_Name": null,
+      "age": 3,
+      "addr": null,
+      "zipcode": null,
+      "email": null
+    },
+    {
+      "id": 2,
+      "f_Name": "fffff",
+      "l_Name": "llllll",
+      "age": 99,
+      "addr": "343dfdfdfdf",
+      "zipcode": "9000",
+      "email": "ddfgdfg"
+    }
+  ]
+}
